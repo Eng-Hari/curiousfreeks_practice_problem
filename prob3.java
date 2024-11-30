@@ -14,7 +14,7 @@ Fail if mark is lesser than 35 */
 
 import java.util.Scanner;
 
-public class prob3 {
+public class Prob3 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
