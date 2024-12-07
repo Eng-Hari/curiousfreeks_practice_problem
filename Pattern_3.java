@@ -1,5 +1,5 @@
 
-public class Pattern2 {
+public class Pattern_3 {
 
     public static void main(String[] args) {
         int n = 4;
